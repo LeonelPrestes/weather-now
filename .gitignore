@@ -1,0 +1,17 @@
+# Ignorar node_modules
+node_modules/
+
+# Arquivos de log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Pastas de build
+dist/
+build/
+
+# Configurações de IDE/Editor
+.vscode/
+.idea/
+.DS_Store  # MacOS
+Thumbs.db  # Windows
