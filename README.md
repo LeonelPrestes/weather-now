@@ -1,2 +1,2 @@
 # weatherNow
-Interalçao simples com API.
+Integraçao simples com API.
